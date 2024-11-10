@@ -1,6 +1,2 @@
 transformers==4.31.0
 torch
-streamlit
-scikit-learn
-pandas
-numpy
